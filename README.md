@@ -44,4 +44,3 @@ The project highlights how momentum-based trading can outperform traditional str
 
 ---
 
-\
